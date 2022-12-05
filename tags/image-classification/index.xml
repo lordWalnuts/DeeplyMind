@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>image classification on DeeplyMind</title>
-    <link>https://lordWalnuts.github.io/deeplymind/tags/image-classification/</link>
+    <link>https://lordwalnuts.github.io/deeplymind/tags/image-classification/</link>
     <description>Recent content in image classification on DeeplyMind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lordWalnuts.github.io/deeplymind/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lordwalnuts.github.io/deeplymind/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classifying Peaky Blinders Characters using fast.ai</title>
-      <link>https://lordWalnuts.github.io/deeplymind/fastai_course/01_peaky/</link>
+      <link>https://lordwalnuts.github.io/deeplymind/fastai_course/01_peaky/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://lordWalnuts.github.io/deeplymind/fastai_course/01_peaky/</guid>
+      <guid>https://lordwalnuts.github.io/deeplymind/fastai_course/01_peaky/</guid>
       <description>Using fast.ai and resnet50 to classify images</description>
     </item>
     
