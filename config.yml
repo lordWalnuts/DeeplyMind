@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://lordWalnuts.github.io/deeplymind"
 languageCode: en-us
 title: DeeplyMind
 theme: "PaperMod"
