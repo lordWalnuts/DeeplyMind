@@ -27,6 +27,8 @@ I view the process of training this model as three pieces:
 
 Before diving in, we need to set up the machine by installing necessary libraries 
 
+The completed Google Colab notebook is linked in the Resources section
+
 # Setting up Google Colab
 
 I use Google Colab because I find it intuitive and can connect it with Google Drive to save the notebooks and data. 
@@ -187,4 +189,5 @@ It's incredible how easy it is to train an image classification model in under 3
 - [fast.ai Course](https://course.fast.ai/)
 - [fast.ai book lesson 1](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb)
 - [fast.ai forums for lesson 1](https://forums.fast.ai/t/lesson-1-official-topic/95287)
+- [Colab Notebook for this lesson](https://colab.research.google.com/drive/1WPQS2DZIqTQPAN9x0Q3ocE8d8kk5MTYm?usp=sharing)
 
