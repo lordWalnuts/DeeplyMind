@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lordWalnuts.github.io/deeplymind/sitemap.xml
